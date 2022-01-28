@@ -57,3 +57,4 @@ pre-deinstall: <<EOD
     rm -f "${target_file}"
   fi
 EOD
+.
